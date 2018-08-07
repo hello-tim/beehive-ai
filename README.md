@@ -13,3 +13,4 @@ Beehive AI in python &amp; pygame
 	<li> Beehive AI is simple Python version using bees instead of dots </li>
 	<li> Run "$ python3 hivesim.py"
 </ul>
+On a side note, this is my first Python project... there is much room for optimization
