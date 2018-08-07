@@ -9,6 +9,6 @@ BeehiveAI in python &amp; pygame
 <ul>
 	<li> Based off Smart Dots Genetic Algorithm tutorial by Code Bullet </li>
 	<li> Github repo link: https://github.com/Code-Bullet/Smart-Dots-Genetic-Algorithm-Tutorial </li>
-	<li> YouTube tutorial link: https://www.youtube.com/watch?v=BOZfhUcNiqk&t=789s </li>
+	<li> YouTube tutorial link: https://www.youtube.com/watch?v=BOZfhUcNiqk&t= </li>
 	<li> BeehiveAI is simple Python version with a twist on species </li>
 </ul>
