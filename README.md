@@ -11,4 +11,5 @@ Beehive AI in python &amp; pygame
 	<li> Github repo link: https://github.com/Code-Bullet/Smart-Dots-Genetic-Algorithm-Tutorial </li>
 	<li> YouTube tutorial link: https://www.youtube.com/watch?v=BOZfhUcNiqk&t= </li>
 	<li> Beehive AI is simple Python version using bees instead of dots </li>
+	<li> Run "$ python3 hivesim.py"
 </ul>
