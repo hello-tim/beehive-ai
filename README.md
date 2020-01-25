@@ -7,11 +7,17 @@ Beehive AI in python &amp; pygame
 </ul>
 <h3>Information</h3>
 <ul>
-	<li> Based off Smart Dots Genetic Algorithm tutorial by Code Bullet </li>
-	<li> Code Bullet's YouTube tutorial: https://www.youtube.com/watch?v=BOZfhUcNiqk&t= </li>
-	<li> Beehive AI is simple Python version using bees instead of dots </li>
+	<li> First Python project based off Smart Dots Genetic Algorithm tutorial by Code Bullet </li>
+	<li> Beehive AI is Python version using bees instead of dots </li>
 	<li> Each generation of bees "evolve" through genetic algorithm to successfully path to beehive </li>
 	<li> Run "$ python3 hivesim.py"
 </ul>
 
-On a side note, this is my first Python project... there is much room for optimization
+First generations:
+![](data/resources/first.gif)
+
+Middle generations:
+![](data/resources/mid.gif)
+
+Last generations:
+![](data/resources/end.gif)
