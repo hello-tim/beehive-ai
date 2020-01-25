@@ -14,10 +14,16 @@ Beehive AI in python &amp; pygame
 </ul>
 
 First generations:
-![](data/resources/first.gif)
+
+
+![first_gen](demo/first.gif)
 
 Middle generations:
-![](data/resources/mid.gif)
+
+
+![mid_gen](demo/mid.gif)
 
 Last generations:
-![](data/resources/end.gif)
+
+
+![end_gen](demo/end.gif)
