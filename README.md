@@ -18,7 +18,7 @@ First generations:
 
 ![first_gen](demo/first.gif)
 
-Middle generations:
+Intermediate generations:
 
 
 ![mid_gen](demo/mid.gif)
