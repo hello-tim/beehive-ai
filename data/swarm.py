@@ -1,4 +1,4 @@
-from bee import Bee
+from data.bee import Bee
 import random
 
 class Swarm:

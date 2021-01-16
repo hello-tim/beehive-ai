@@ -1,6 +1,6 @@
 import pygame as pg
 import math
-from brain import Brain
+from data.brain import Brain
 
 class Bee:
     def __init__(self, scWidth, scHeight, goalX, goalY):
@@ -18,7 +18,7 @@ class Bee:
         self.pos = [self.scWidth/2 - self.width/2, self.scHeight - self.height - 10]
         self.vel = [0, 0]
         self.acc = [0, 0]
-        self.bee = pg.image.load("resources/bee.png")
+        self.bee = pg.image.load("data/resources/bee.png")
         # Initialize bee's brain with 1000 directions
         self.brain = Brain(1000)
         self.dead = False

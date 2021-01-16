@@ -1,13 +1,13 @@
 import pygame as pg
-from swarm import Swarm
+from data.swarm import Swarm
 
 class App():
     def __init__(self, screen, width, height):
         self.scWidth = width
         self.scHeight = height
-        self.bg = pg.image.load("resources/bg.png") # 500 x 500
-        self.hive = pg.image.load("resources/hive.png") # 50 x 53
-        self.fence = pg.image.load("resources/fence.png") # 320 x 150
+        self.bg = pg.image.load("data/resources/bg.png") # 500 x 500
+        self.hive = pg.image.load("data/resources/hive.png") # 50 x 53
+        self.fence = pg.image.load("data/resources/fence.png") # 320 x 150
         self.sc = screen
         self.goal = [width/2 - 5, 40] # Goal is inside the hive
 
