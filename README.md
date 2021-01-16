@@ -1,29 +1,22 @@
-# Beehive AI
-Beehive AI in python &amp; pygame
-<h2>Dependencies:</h2>
-<ul>
-	<li> Python - 3.7.0 </li>
-	<li> PyGame - 1.9.4 </li>
-</ul>
-<h3>Information</h3>
-<ul>
-	<li> First Python project based off Smart Dots Genetic Algorithm tutorial by Code Bullet </li>
-	<li> Beehive AI is Python version using bees instead of dots </li>
-	<li> Each generation of bees "evolve" through genetic algorithm to successfully path to beehive </li>
-	<li> Run "$ python3 hivesim.py"
-</ul>
+# Beehive AI: Project Overview  
+* My first Python project based off the Smart Dots Genetic Algorithm tutorial by Code Bullet  
+* Beehive AI is a Python version using bees instead of dots  
+* Each generation of bees "evolve" through a genetic algorithm to successfully path to the beehive  
+* To run, use "$ python3 hivesim.py"  
 
-First generations:
+## Requirements
+**Python Version:** 3.7.0  
+**Packages:** PyGame (v1.9.4)
 
+## Demo
+### First generations:  
 
-![first_gen](demo/first.gif)
+![first_gen](demo/first.gif)  
 
-Intermediate generations:
+### Intermediate generations:  
 
+![mid_gen](demo/mid.gif)  
 
-![mid_gen](demo/mid.gif)
+### Last generations:  
 
-Last generations:
-
-
-![end_gen](demo/end.gif)
+![end_gen](demo/end.gif)  
